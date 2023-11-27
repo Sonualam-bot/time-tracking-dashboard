@@ -40,5 +40,5 @@ Understood working of grid in tailwind css and also the benefit of using it to c
 ## Author
 
 - Website - [Md. Sonu Alam](https://renon-portfolio-kappa-one.vercel.app/)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
-- Twitter - [@yourusername](https://twitter.com/muhammadsonu15)
+- Frontend Mentor - [@sonualam](https://www.frontendmentor.io/profile/yourusername)
+- Twitter - [@muhammadsonu](https://twitter.com/muhammadsonu15)
